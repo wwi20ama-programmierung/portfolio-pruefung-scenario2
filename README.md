@@ -3,9 +3,9 @@
 ## Hintergrund
 Der italienische Seefahrer und Entdecker Christoph Kolumbus brach am 3. August 1492 mit seinem Schiff "Santa Maria" zu einer Reise auf, die die Entdeckung eines alternativen Seewegs nach Indien zum Ziel hatte. Auf dieser Reise mussten er und seine Besatzung mit vielen Widrigkeiten kämpfen, unter anderem einer teils stark eingeschränkten Sicht, die die Navigation der Schiffe erschwerte.
 
-Trotzdem hatte Kolombus es sich zum Ziel gesetzt, bei jeder Sichtung eines Hafens diesen Anzufahren, um möglichst viele Informationen, die für die weitere Reise relevant sein könnten, von den dort lebenden Menschen zu sammeln.
+Trotzdem hatte Kolumbus es sich zum Ziel gesetzt, bei jeder Sichtung eines Hafens diesen anzufahren, um möglichst viele Informationen, die für die weitere Reise relevant sein könnten, von den dort lebenden Menschen zu sammeln.
 
-Zum 529. Jahrestag seines Aufbruchs soll eine Simulation dieser Reise präsentiert werden, mit dessen Entwicklung Sie beauftragt wurden. Dabei hat Ihr Auftraggeber bereits einen Python-Prototyp entwickelt, der Ihnen als Vorlage für die Funktionalität dienen soll - das im August vorzustellende Programm soll allerdings in objektorientiertem Java implementiert werden.
+Zum 529. Jubiläum seiner Reise soll eine Simulation präsentiert werden, mit deren Entwicklung Sie beauftragt wurden. Dabei hat Ihr Auftraggeber bereits einen Python-Prototyp entwickelt, der Ihnen als Vorlage für die Funktionalität dienen soll - das endgültige Programm soll allerdings in Java implementiert werden.
 
 ## Aufgabenstellung
 Machen Sie sich mit der Funktionsweise des Python-Programms vertraut. "Übersetzen" Sie anschließend dieses Programm in ein objektorientiertes Java-Programm. Übernehmen und erweitern Sie auf dieser Basis die im Grundgerüst vorhandenen Klassen mit dem zur Erfüllung der Anforderungen des Auftragsgebers nötigen Logik.
