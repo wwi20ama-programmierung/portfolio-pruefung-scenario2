@@ -11,7 +11,7 @@ def runMap(file):
 def main():
   
   # Liste mit den Dateinamen aller Karten anlegen:
-  mapFileNames = ["karte1.txt"]
+  mapFileNames = ["karte1.txt", "karte2.txt", "karte3.txt", "karte4.txt"]
   mapDir = Path("karten")
   mapFiles = [mapDir / fileName for fileName in mapFileNames]
   
