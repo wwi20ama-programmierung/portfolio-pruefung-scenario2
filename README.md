@@ -39,7 +39,9 @@ Machen Sie sich mit der Funktionsweise des Python-Programms vertraut. "Übersetz
   - Entscheidungen (z. B. für Datenstrukturen) erklären
 
 ### Funktionalität
-Es sind mehrere Karten mit aufsteigender Schwierigkeit in Form von Textdateien vorgegeben. Ihr Java-Programm sollte möglichst viele dieser Test-Karten lösen können.
+Es sind mehrere Karten mit unterschiedlicher Schwierigkeit in Form von Textdateien vorgegeben.
+Ihr Java-Programm sollte möglichst viele dieser Test-Karten lösen können.
+Außerdem werden wir Ihre Abgabe mit weiteren, ähnlichen, Karten testen.
 
 Im Detail wird in der in Java vorgegebenen Main-Methode ein Schiff, eine Umgebung und ein Logbuch erzeugt. Das Schiff-Objekt ist dabei die Steuerungsentität, es entscheidet selbst, wann es alle Häfen angefahren hat.
 
